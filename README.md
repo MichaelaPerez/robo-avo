@@ -1,50 +1,45 @@
-# Preview
+# Preview of End Product
 
 ![Preview](https://github.com/MichaelaPerez/robo-avo/blob/master/fly-avo.png)
 
-**[View Live Preview](https://michaelaperez.github.io/robo-avo/)**
+**[View The Possibilities!](https://michaelaperez.github.io/robo-avo/)**
 
-# Download and Installation
+# Download and Installation of Git
 
-To begin using this template, choose one of the following options to get started:
-* Clone the repo: `git clone https://github.com/Mustafa-Sadriwala/acm-swe-workshop.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/Mustafa-Sadriwala/acm-swe-workshop)
+~~To begin using this template, choose one of the following options to get started:~~
+~~* Clone the repo: `git clone https://github.com/Mustafa-Sadriwala/acm-swe-workshop.git`~~
+~~* [Fork, Clone, or Download on GitHub](https://github.com/Mustafa-Sadriwala/acm-swe-workshop)~~
 
 # Hosting
 
-If you want to fork the repo:
-1. Press the fork button in the top-right and choose the account you want to fork it to.
-2. There will now be an identical repo in your account.
-3. Open the repository and go to the **Settings** tab.
-4. Rename the repository to your liking.
-5. Scroll down to the GitHub Pages section in the **Settings** and you will find a link to your website!
+If you want to create the repo and copy the files over:
+1. Create a new repo using the instructions [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository).
+2. Download the files in [the original repo](https://github.com/Mustafa-Sadriwala/acm-swe-workshop)
+3. In the Code section of your repo, click **Upload files** and upload all the files you just downloaded.
 
 If you want to clone the repo:
-1. Clone the GitHub repo to your local machine.
-2. Create a new GitHub repo on your account.
-3. From the cloned local repo push to your new repo on GitHub using the following commands (replacing YOU/YOUR_NEW_REPO with the appropriate values, this URL can be found on the new repo):
-```
-$ git remote set-url origin http://github.com/YOU/YOUR_NEW_REPO
-$ git push remote origin
-```
-3. Go to the repository on GitHub.
-4. Go to the **Settings** Tab.
-5. Scroll to the GitHub Pages sections and choose your source branch (most likely this will be the *master* branch)
-6. The page will refresh and there will now be a link above the GitHub pages section to your website!
+When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
+1. Go to [the original repo](https://github.com/Mustafa-Sadriwala/acm-swe-workshop)
+2. Follow the instructions [here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to clone the repo
+~~3. Go to the **Settings** Tab.~~
+~~4. Scroll to the GitHub Pages sections and choose your source branch (most likely this will be the *master* branch)~~
+~~5. The page will refresh and there will now be a link above the GitHub pages section to your website!~~
+
+If you want to fork the repo:
+1. Go to these [instructions](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) to fork the repo at this [link](https://github.com/Mustafa-Sadriwala/acm-swe-workshop)
+~~1. Press the fork button in the top-right and choose the account you want to fork it to.~~
+~~2. There will now be an identical repo in your account.~~
+~~3. Open the repository and go to the **Settings** tab.~~
+~~4. Rename the repository to your liking.~~
+~~5. Scroll down to the GitHub Pages section in the **Settings** and you will find a link to your website!~~
 
 > Note: the website will not be instantly accesible and will likely show a 404 error for a few minutes
-
 
 # Usage
 
 ## Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with the template in a code editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-## Walkthrough
-
-Follow the steps to [Download and Install](#download-and-installation) this repository found above.
-Open the repository on your local machine with your favorite text editor.
 
 ### Changing Text
 
