@@ -1,16 +1,16 @@
-## Preview
+# Preview
 
-![Preview](https://github.com/Mustafa-Sadriwala/acm-swe-workshop/blob/master/img/github/preview.png)
+![Preview](https://github.com/MichaelaPerez/robo-avo/blob/master/fly-avo.png)
 
-**[View Live Preview](https://mustafa-sadriwala.github.io/acm-swe-workshop/)**
+**[View Live Preview](https://michaelaperez.github.io/robo-avo/)**
 
-## Download and Installation
+# Download and Installation
 
 To begin using this template, choose one of the following options to get started:
 * Clone the repo: `git clone https://github.com/Mustafa-Sadriwala/acm-swe-workshop.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/Mustafa-Sadriwala/acm-swe-workshop)
 
-## Hosting
+# Hosting
 
 If you want to fork the repo:
 1. Press the fork button in the top-right and choose the account you want to fork it to.
@@ -35,18 +35,18 @@ $ git push remote origin
 > Note: the website will not be instantly accesible and will likely show a 404 error for a few minutes
 
 
-## Usage
+# Usage
 
-### Basic Usage
+## Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with the template in a code editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Walkthrough
+## Walkthrough
 
 Follow the steps to [Download and Install](#download-and-installation) this repository found above.
 Open the repository on your local machine with your favorite text editor.
 
-#### Changing Text
+### Changing Text
 
 First we'll want to take a look at `index.html`.
 
@@ -66,7 +66,7 @@ On *lines 116-125* we'll change the About Section. Here there are going to be tw
 On *lines 359-397* you can find the information for the first portfolio modal. These are the modals that pop up when you click on one of the projects in the portfolio section. Change the title, **Log Cabin** to a relevant project name and change all the latin words in the `p` tag to a description of the project and what you worked on.
 ![portfolio-modal-1](https://github.com/Mustafa-Sadriwala/acm-swe-workshop/blob/master/img/github/portfolio-modal-1.png)
 
-#### Adding files and images
+### Adding files and images
 
 Now let's talk about adding in some files and images that are more pertinent to you.
 
@@ -118,7 +118,7 @@ On *lines 161-171* you'll find portfolio item 1. Here you'll want to edit the `s
 ![portfolio-item-1](https://github.com/Mustafa-Sadriwala/acm-swe-workshop/blob/master/img/github/portfolio-item-1.png)
 Also make this change in the portfolio modal for item 1 of which we altered the text for above. You will need to update the `img` tag of portfolio modal 1 found on *lines 359-397*.
 
-#### Adding Links
+### Adding Links
 
 Now we are going to add links to your professional social medias.
 
@@ -128,7 +128,7 @@ On *lines 48-59* you'll find the code for the LinkedIn and GitHub icons on the n
 You can repeat the same process as above on *lines 127-137* to change the buttons in the about section.
 ![lines-127-137](https://github.com/Mustafa-Sadriwala/acm-swe-workshop/blob/master/img/github/127-137.png)
 
-#### Getting Mail
+### Getting Mail
 
 Finally, let's update what email people should contact you at. 
 
@@ -137,15 +137,15 @@ Go to the `mail` directory and open the file named `contact-me.php`. In here you
 
 >Note: Be aware that this constitutes putting your email on the internet. You probably already have it available on other social media platforms but if you are not comfortable with the idea of putting your personal/school email out there then we recommend deleting the contact section.
 
-#### An Exercise
+### An Exercise
 
 With what you've learned so far, scroll to *lines 300-337* to find the Footer section code. Now try to customize the Footer section with your own info or maybe even add something new to it altogether.
 
-### Advanced Usage
+## Advanced Usage
 
 After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment. This will allow you to make change to the SCSS files and have them auto-update your the CSS files as well. SCSS offers the option of neater and more efficient styles.
 
-#### Gulp Tasks
+### Gulp Tasks
 
 - `gulp` the default task that builds everything
 - `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
@@ -157,9 +157,9 @@ After installation, run `npm install` and then run `npm start` which will open u
 > * https://www.npmjs.com/get-npm
 > * https://gulpjs.com/docs/en/getting-started/quick-start
 
-## Source Details
+# Source Details
 
-### [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
+## [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
